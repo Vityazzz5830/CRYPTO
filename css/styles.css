@@ -17,6 +17,7 @@
       grid-template-rows: auto 1fr auto;
       position: relative;
       overflow-x: hidden;
+        zoom: 90%;
     }
 
     ul,li {
